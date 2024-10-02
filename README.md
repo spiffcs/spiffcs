@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!
 
 <a href="https://www.credly.com/badges/8795cfbb-ba0f-456c-b1b8-41bff4b49d74/public_url">
 <img alt="KubeCon + CloudNativeCon North America 2022" src="kubecon.png" width="200" height="200" />

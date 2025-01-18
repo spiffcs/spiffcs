@@ -1,6 +1,6 @@
 ## Welcome!
 - 🔭 I’m currently working on [Syft](https://github.com/anchore/syft), [Grype](https://github.com/anchore/grype), and [Grant](https://github.com/anchore/grant)
-- 🌱 I’m currently learning about [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) files. GGUF is a format for storing models for inference with GGML
+- 🌱 I’m currently learning about [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) files.
 - 👯 I’m looking to collaborate if you're in need of a Rust or Golang developer
 - 📫 How to reach me: Here is my [website](https://cphillips.io)
 
